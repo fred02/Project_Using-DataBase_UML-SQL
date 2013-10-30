@@ -1,0 +1,1 @@
+Pour lancer l'application Métronome ,éxecutez le fichier métro.jar .
